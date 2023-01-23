@@ -1,0 +1,6 @@
+name: TwelfthCafeMoca
+version: '${project.version}'
+main: kr.cafemoca.cafemoca.Cafemoca
+api-version: 1.16
+authors: [ CafeMoca ]
+description: 대한제국 한약
