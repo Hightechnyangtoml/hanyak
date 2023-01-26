@@ -6,4 +6,10 @@
 - Permission: cafemoca.give
   - /cafemoca <약재> - 해당 약제를 지급함
   
-## asdf
+## 약재
+- 인삼
+- 복령
+- 지황
+
+## 약
+- 경옥고 - 재생 2 5초, 흡수 1 2분 = 황금사과
