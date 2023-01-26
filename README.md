@@ -4,7 +4,7 @@
 
 ## Command
 - Permission: cafemoca.give
-  - /cafemoca <약재> - 해당 약제를 지급함
+  - /cafemoca <약재> - 해당 약재를 지급함
   
 ## 탕약기
 - 작성 예정
