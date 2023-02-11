@@ -1,6 +1,6 @@
 # hanyak
 
-대한제국 서버의 한의학 컨텐츠에 들어갈 플러그인.
+대한제국 서버의 한의학 컨텐츠에 들어갈 플러그인. + 집어치움
 
 ## Command
 - Permission: cafemoca.give
